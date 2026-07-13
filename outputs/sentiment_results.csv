@@ -1,0 +1,5 @@
+OriginalText,ActualSentiment,PredictedSentiment
+this project does not work,Negative,Positive
+i love this python course,Positive,Positive
+the example is too complicated,Negative,Negative
+the examples are simple and clear,Positive,Negative
